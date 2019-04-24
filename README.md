@@ -19,6 +19,9 @@ cambio otra vez
 
 D-Pichincha
 
+R-Los rios
+A-Pichincha
+G-Tungurahua
 I-Pichincha
 S-Esmeraldas
 C-Esmeraldas
