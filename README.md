@@ -25,3 +25,5 @@ G-Tungurahua
 I-Pichincha
 S-Esmeraldas
 C-Esmeraldas
+S-Pichincha
+C-Pichincha
