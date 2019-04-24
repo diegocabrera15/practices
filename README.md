@@ -1,12 +1,13 @@
 # practices
 DCA COMMIT 1
 
-CCA y SPO
-ISABEL LOBATO 
-SANDY SANCHEZ
-CESAR SAAVEDRA
-Ricardo Herrera
-Andres Salguero
-Giovanni Escorza
+Ccristian A y Silvia PO
+ISA L 
+SAY SAZ
+C SaavedrA
+RHerrera
+AndresS
+GiovaE
 
-Aqui les cambio otra vez
+Aqui les 
+cambio otra vez
